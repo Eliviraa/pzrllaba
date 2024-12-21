@@ -1,0 +1,5 @@
+*.txt
+*.o
+/redactor
+*.input.txt.swo
+*.input.txt.swp
